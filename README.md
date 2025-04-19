@@ -1,4 +1,4 @@
-# 21_Game
+# 21 Card Game
 
 This is my version of the 21 Card Game, built with visuals using Pygame!
 

@@ -16,3 +16,6 @@ Click the in-game "Play Again?" button to start another round
 - Run main.py to start the game!  
 
 ## Game Demos
+![screenshot](assets/demoScreenshots/demoImg1.png)
+
+![screenshot_of_results](assets/demoScreenshots/demoImg2.png)

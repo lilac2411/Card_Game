@@ -1,6 +1,8 @@
 # 21 Card Game 🂮
 
-This is my version of the 21 Card Game, built with visuals using Pygame!
+**Welcome!**
+This my version of the 21 Card Game in Python, built with visuals using Pygame.
+Try to beat the dealer without going over 21!
 
 ## Features 🎉
 - Hand totals for player and dealer
@@ -9,9 +11,9 @@ This is my version of the 21 Card Game, built with visuals using Pygame!
 
 ## Controls ⌨️
 On your keyboard, press:  
-H - Hit (to draw another card)  
-S - Stay (to end your turn)  
-Click the in-game "Play Again?" button to start another round   
+**H** - Hit (to draw another card)  
+**S** - Stay (to end your turn)  
+Click the in-game "**Play Again?**" button to start another round   
 
 ## Set-up Instructions 💻
 - Clone the repository  

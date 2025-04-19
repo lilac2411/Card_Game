@@ -9,9 +9,9 @@ S - Stay (to end your turn)
 Click the in-game "Play Again?" button to start another round   
 
 ## Set-up Instructions
--Clone the repository  
--Ensure Python 3.7 or higher is installed   
--Install pygame  
+- Clone the repository  
+- Ensure Python 3.7 or higher is installed   
+- Install pygame  
 `pip install pygame`  
--Run main.py to start the game!  
+- Run main.py to start the game!  
 

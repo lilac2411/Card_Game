@@ -1,6 +1,6 @@
 # 21 Card Game 🂮
 
-**Welcome!**
+**Welcome!**    
 This my version of the 21 Card Game in Python, built with visuals using Pygame.
 Try to beat the dealer without going over 21!
 

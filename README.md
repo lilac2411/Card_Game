@@ -25,6 +25,8 @@ Click the in-game "**Play Again?**" button to start another round
 ## Game Demos! 
 Here is a video demo: https://drive.google.com/file/d/1MujZpwOKljTsSxibNdYaIM3p8aOjj5P5/view?usp=sharing 
 
-![screenshot](assets/demoScreenshots/demoImg1.png)
+![titlepage](assets/demoScreenShots/demoImg1.png)
 
-![screenshot_of_results](assets/demoScreenshots/demoImg2.png)
+![gameplay](assets/demoScreenShots/demoImg2.png)
+
+![results](assets/demoScreenShots/demoImg3.png)

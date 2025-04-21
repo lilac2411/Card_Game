@@ -19,7 +19,7 @@ Click the in-game "**Play Again?**" button to start another round
 - Clone the repository  
 - Ensure Python 3.7 or higher is installed   
 - Install pygame  
-`pip install pygame`  
+`python3 -m pip install -U pygame --user`  
 - Run main.py to start the game!  
 
 ## Game Demos!! 
